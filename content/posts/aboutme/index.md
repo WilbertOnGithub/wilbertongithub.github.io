@@ -2,6 +2,7 @@
 title: "About me"
 categories: "blog"
 date: 2025-07-28T11:30:03+00:00
+weight: 10
 summary: "Some information about myself"
 author: ["Wilbert van Dolleweerd"]
 draft: false
