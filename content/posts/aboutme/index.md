@@ -30,7 +30,7 @@ Next to that, I've created trainings for Git, both for [beginners](https://githu
 I love to attend [local user groups](https://www.meetup.com/nl-NL/nimma-codes-meetup-group/) both as a speaker and an attendant. If I find the 
 subject matter interesting, you can find me there.
 
-- For more information on my career, see my [LinkedIn profile](www.linkedin.com/in/wilbertvandolleweerd).
+- For more information on my career, see my [LinkedIn profile](https://www.linkedin.com/in/wilbertvandolleweerd).
 - I do some more personal blogging on [Bluesky](https://bsky.app/profile/weeveedee.bsky.social).
 - I dabble a bit in [photography](https://www.flickr.com/photos/wilbertvandolleweerd/) as a way to clear my head.
 - Last but not least, some of my stuff (including the [source for this site](https://github.com/WilbertOnGithub/wilbertongithub.github.io)) is hosted on my [Github profile](https://github.com/WilbertOnGithub).
