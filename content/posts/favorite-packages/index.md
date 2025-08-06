@@ -131,6 +131,8 @@ All things related to networking and/or messaging.
 - [AsyncAPI](https://www.asyncapi.com/en) - *"Open-Source tools to easily build and maintain your event-driven architecture. All powered by the AsyncAPI specification, the industry standard for defining asynchronous APIs."*
 - [Scalar](https://scalar.com/) - *"Create world-class API Docs with a built-in interactive playground"*
 - [Mosquitto](https://mosquitto.org/) - *"an open source message broker that implements the MQTT protocol versions 5.0, 3.1.1 and 3.1."*
+- [NGrok](https://ngrok.com/) - API gateway. Makes it possible to locally test your webhooks.
+
 
 ### Databases
 Everything related to data access.
