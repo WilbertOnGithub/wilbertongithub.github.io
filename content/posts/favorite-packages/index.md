@@ -91,6 +91,7 @@ Looking for things to spice up your userinterface?
 - [MudBlazor](https://mudblazor.com/) - A Blazor component library.
 - [MVVM Toolkit](https://learn.microsoft.com/nl-nl/dotnet/communitytoolkit/mvvm/) - *"A fast, modular, platform-agnostic MVVM library."*
 - [AvaloniaUI](https://avaloniaui.net/) - *"The open-source WPF successor for .NET developers building beautiful, cross-platform applications."*
+- [SukiUI](https://kikipoulet.github.io/SukiUI/) - A desktop theme for AvaloniaUI
 - [Bootswatch](https://bootswatch.com/) - *"Free themes for Bootstrap. Simply download a CSS file and replace the one in Bootstrap."* 
 
 ### Logging / Performance
