@@ -92,6 +92,7 @@ Looking for things to spice up your userinterface?
 - [MVVM Toolkit](https://learn.microsoft.com/nl-nl/dotnet/communitytoolkit/mvvm/) - *"A fast, modular, platform-agnostic MVVM library."*
 - [AvaloniaUI](https://avaloniaui.net/) - *"The open-source WPF successor for .NET developers building beautiful, cross-platform applications."*
 - [SukiUI](https://kikipoulet.github.io/SukiUI/) - A desktop theme for AvaloniaUI
+- [LiveCharts2](https://livecharts.dev/) - Almost all software needs a chart
 - [Bootswatch](https://bootswatch.com/) - *"Free themes for Bootstrap. Simply download a CSS file and replace the one in Bootstrap."* 
 
 ### Logging / Performance
